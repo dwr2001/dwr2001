@@ -1,4 +1,4 @@
-- 👋 How u doing, I’m Duan Wenrui from Chi.
+- 👋 How u doing, I’m Duan Wenrui from China.
 - 👀 I’m interested in OS, compiler, Software Engineering
 - 🌱 I’m currently learning `Software testing process management`
 - 📫 How to reach me isduanwenrui2001@163.com
