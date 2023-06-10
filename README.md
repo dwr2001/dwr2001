@@ -1,4 +1,4 @@
-- 👋 How u doing, I’m dwr2001.
+- 👋 How u doing, I’m Duan Wenrui from Chi.
 - 👀 I’m interested in OS, compiler, Software Engineering
 - 🌱 I’m currently learning `Software testing process management`
 - 📫 How to reach me isduanwenrui2001@163.com
